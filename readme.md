@@ -3,7 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPTQmxcef-9JjMjdKL_s76Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 ### Connect with me:
-Discord: EnderBK#6330
+Discord: EnderBK#6330   
 
 ### Languages and Tools:
 
